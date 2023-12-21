@@ -1,0 +1,12 @@
+{
+  "relation": [
+    "delegate_permission/common.handle_all_urls"
+  ],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.micm.edusprintpro",
+    "sha256_cert_fingerprints": [
+      "35:C5:70:71:8C:7B:F1:46:E5:61:B8:DE:E4:77:96:48:3D:47:97:60:3E:9A:03:BB:62:9E:6A:DB:79:C1:0F:32"
+    ]
+  }
+}
